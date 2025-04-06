@@ -1,7 +1,7 @@
 @charset "UTF-8" ;
 
 .mainlogo{
-    background-image: url(https://raw.githubusercontent.com/Saka-neko/C/refs/heads/main/fullimage.jpg);
+    background-image: url(https://raw.githubusercontent.com/PZL-OPU/campusmap/refs/heads/main/fullimage.jpg);
     background-size: cover;
     background-position: center top;
     background-repeat: no-repeat;
@@ -57,7 +57,7 @@ font-size: 80%;
 
 @media (max-width:820px) {
     .mainlogo{
-        background-image: url(https://raw.githubusercontent.com/Saka-neko/C/refs/heads/main/fullimage.jpg);
+        background-image: url(https://raw.githubusercontent.com/PZL-OPU/campusmap/refs/heads/main/fullimage.jpg);
         background-size: cover;
         background-position: center top;
         background-repeat: no-repeat;
