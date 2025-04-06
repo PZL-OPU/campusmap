@@ -1,7 +1,7 @@
 @charset "UTF-8" ;
 
 .mainlogo{
-    background-image: url(https://github.com/PZL-OPU/campusmap/blob/f389914a39efc9fc9d16ca0fc054c9579f572405/fullimage.jpg);
+    background-image: url(https://github.com/PZL-OPU/campusmap/blob/main/fullimage.jpg?raw=true);
     background-size: cover;
     background-position: center top;
     background-repeat: no-repeat;
@@ -57,7 +57,7 @@ font-size: 80%;
 
 @media (max-width:820px) {
     .mainlogo{
-        background-image: url(https://github.com/PZL-OPU/campusmap/blob/f389914a39efc9fc9d16ca0fc054c9579f572405/fullimage.jpg);
+        background-image: url(https://github.com/PZL-OPU/campusmap/blob/main/fullimage.jpg?raw=true);
         background-size: cover;
         background-position: center top;
         background-repeat: no-repeat;
